@@ -3,7 +3,7 @@
 This project revolves around a web scraping endeavor where images from Unsplash are scraped using their API endpoint. The goal of the project is to download a collection of images from Unsplash and store them locally for various purposes such as personal use, creative projects, or as data for machine learning training data.
 
 ## Project Workflow
-* [Notebook]()
+* [Notebook](https://github.com/Bytecode-Magnum/Unsplash_Image_Scrapper/blob/main/unsplash_stock_images.ipynb)
 
 HTTP Request and JSON Parsing: The requests module is employed to initiate an HTTP request to the Unsplash API endpoint. The JSON response is received, which contains metadata about images, including URLs.
 
